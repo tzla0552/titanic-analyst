@@ -1,1 +1,3 @@
 titanic analyst
+pandas
+seaborn
